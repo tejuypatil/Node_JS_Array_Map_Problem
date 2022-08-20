@@ -1,4 +1,3 @@
-
    let arr = [];
    for(i=0;i<10;i++)
    {
@@ -59,8 +58,8 @@
 
 
 /**
- * Extend the above program to sort the array and then find the 
- * 2nd largest and the 2nd smallest element.
+ * 2.Extend the above program to sort the array and then find the 
+ *   2nd largest and the 2nd smallest element.
  */
 
 let sortedArr=arr.sort();
